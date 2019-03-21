@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 83846fad3a6154ad8a21bfa3960131cd56a4c5df Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552437642 -0400	clone: from https://github.com/Robotics3962/2019-comp.git
+83846fad3a6154ad8a21bfa3960131cd56a4c5df 54d7ab2adb94c4aeb9e72fb6130a2d01e20bbc5e Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552500123 -0400	commit: deleted useless code, commented out code that has a high chnace of being used
+54d7ab2adb94c4aeb9e72fb6130a2d01e20bbc5e 28c5ff7c66c70affb1bdfc86cef9a9706d364fba Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552954290 -0400	revert: Revert "deleted useless code, commented out code that has a high chnace of being used"
+28c5ff7c66c70affb1bdfc86cef9a9706d364fba dfcfd286fade8a6a1952dd4e61a801a3dea447ba Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552960463 -0400	commit: Delete ArmHoldCmd.java
+dfcfd286fade8a6a1952dd4e61a801a3dea447ba 187726b2ace41f116761689f4f780abf2b6dce28 Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552960508 -0400	commit: removed usued imports and variables
+187726b2ace41f116761689f4f780abf2b6dce28 b2258334ad75bb9d0194feed1cc02ccda32aa2c4 Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552960641 -0400	commit: PID control and neutral mode
+b2258334ad75bb9d0194feed1cc02ccda32aa2c4 dc4f7afa61bc4f55322c64851a9fd70c1c85c71d Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552960743 -0400	commit: commands to handle locking wrist pos
+dc4f7afa61bc4f55322c64851a9fd70c1c85c71d e8a6704dd5caecbb49aef05093921314372b8a3b Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552960760 -0400	commit: cleaned up unused imports
+e8a6704dd5caecbb49aef05093921314372b8a3b d23fab91e967f9e9f88d4c55713a26ee7d3c9eb3 Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552960851 -0400	commit: mapped keys to new commands
+d23fab91e967f9e9f88d4c55713a26ee7d3c9eb3 e8a6704dd5caecbb49aef05093921314372b8a3b Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552960864 -0400	reset: moving to e8a6704dd5caecbb49aef05093921314372b8a3b
+e8a6704dd5caecbb49aef05093921314372b8a3b 39d633f8a7fd91fde345bf2d326ec3c8e1d4307b Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552960911 -0400	commit: mapped keys to new commands
+39d633f8a7fd91fde345bf2d326ec3c8e1d4307b dbb308670ac3aa36a5a51e393c36d506e0b02334 Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1552992077 -0400	commit: added encoder checkes for calls that require them
+dbb308670ac3aa36a5a51e393c36d506e0b02334 30d14ed1c670c32ce5170ae4dfd5dd30e9a3f247 Robotics3962 <46796109+Robotics3962@users.noreply.github.com> 1553023177 -0400	commit: adding cameras, updating controls and speed
